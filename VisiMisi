@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <div>
+            <h1>Visi Dan Misi Universitas</h1>
+        </div>
+    </nav>
+    <hr>
+    <article>
+        <div>
+            <h3>
+            <u>Visi :
+                Universitas yang unggul dan kompetitif diberbagai bidang ilmu 
+                pengetahuan dan teknologi yang dilandasi nilai-nilai Ketuhanan, 
+                Kebangsaan dan Kearifan Lokal.
+            </u>
+            </h3>
+            <h3>
+            <u>Misi :
+                Menyelenggarakan pendidikan dan pengajaran yang bermutu
+                Melaksanakan kegiatan penelitian guna mengembangkan ilmu pengetahuan dan teknologi yang memiliki kemanfaatan baik bagi kepentingan institusi, daerah maupun nasional
+                Melaksanakan pengabdian kepada masyarakat dalam berbagai bidang baik tingkat daerah maupun nasional
+                Meningkatkan suasana dan prilaku akademis, agamis dan kebangsaan dilingkungan Universitas
+                Menjunjung tinggi budaya, tata krama dan bahasa masyarakat lingkungan
+            </u>
+            </h3>
+            
+        </div>
+    </article>
+</body>
+</html>
