@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <div>
+            <header> 
+                <h1>UNIVERSITAS PORTIEG</h1>
+            </header>
+        </div>
+    </nav>
+    <hr>
+    <container>
+        <img src="img/LuguSatu.png" alt="LogoSekolah" style="width: 30%;">
+    </container>
+    <nav>
+        <div>
+            <ul>
+                <li><a href="tentang.html">Tentang</a></li>
+                <li><a href="kontak.html">Kontak</a></li>
+                <li><a href="../index.html">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+    <hr>
+    <article>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">New Era New Logic</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis sint iure hic impedit ex, quisquam quaerat, error optio deserunt laudantium quos! Voluptates repellat quae architecto commodi laboriosam similique fuga exercitationem.
+            lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur numquam, distinctio quisquam architecto commodi ducimus corrupti odit in! Repudiandae ad, amet distinctio eius sit molestiae dolorem eos facilis et asperiores! Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem nam soluta molestiae vero ratione, mollitia quaerat officiis dignissimos quisquam quos reiciendis adipisci illo eum, facilis voluptate veniam nobis, modi ipsam. </p>
+            <hr>
+        <h2 style="font-family:Verdana, Geneva, Tahoma, sans-serif;">Greetings One Asphalt</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus placeat, asperiores facere quam omnis sint voluptate veniam exercitationem sapiente eveniet ullam consectetur velit rerum porro, recusandae laudantium. Vitae, eius porro! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae natus omnis minus perspiciatis voluptates neque, nisi voluptas. Odio accusamus adipisci harum beatae. Minima a quidem numquam ratione incidunt! Mollitia, praesentium.
+             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit adipisci delectus in atque non facere id ex aperiam repellat iure veniam dicta commodi fugit ratione laborum, voluptatum eaque. Architecto, ad.
+        </p>
+    </article>
+    <hr>
+    <footer>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">PORTIEG</h2>
+            <div>
+                <a href="visimisi.html">VISI&MISI</a>
+            </div>
+            <div style="color: grey;">
+                <p>&copy 2023</p>
+            </div>
+			<div>
+					<p>Jl.Sudirman, Jakarta Pusat</p>
+			</div>
+            <div>
+					<a href="https://jkt48.com">Website Lain</a>
+                    <br>
+                    <a href="https://twitter.com/officialJKT48?t=ytDtgqLd4RBp1nxvi3soeQ&s=09">Twitter Sekolah</a>
+			</div>
+            <div>
+                <b><p>Privacy Policy</p></b>
+            </div>
+    </footer>
+</body>
+</html>
