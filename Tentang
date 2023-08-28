@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <nav>
+        <div>
+            <h1 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;">Cari Informasi Tentang Sekolah?</h1>
+        </div>
+        <hr>
+    </nav>
+    <article>
+        <h3><a href="visimisi.html">VISI&MISI</a></h3>
+    </article>
+    <footer>
+        <div>
+            <h3><u>Penjurusan</u></h3>
+        </div>
+            <select name="" id="">
+                <option value="1">Pilihan</option>
+                <option value="2">Sanggar Tari</option>
+                <option value="3">Keseni</option>
+                <option value="4">Dancer</option>
+                <option value="5">Theater Drama</option>
+                <option value="6">Multimedia</option>
+                <option value="7">Kecantikan</option>
+            </select>   
+        </footer>
+        <br><br><br>
+        <div>
+            <img src="img/kuliahlogo.jpg" alt="logosekolah" style="width: 600px; height: 500px;" >
+            <img src="img/uniilogo.webp" alt="logosekolah" style="width: 600px; height: 500px;">
+        </div>
+        <br><br>
+        <div>
+            <a href="../index.html">Kembali</a>
+        </div>
+</body>
+</html>
